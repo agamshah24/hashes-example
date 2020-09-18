@@ -1,0 +1,22 @@
+{
+  "name": "hashes-example",
+  "version": "1.0.0",
+  "description": "Example of using Blockchain to verify the documents.",
+  "main": "hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agamshah24/hashes-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agamshah24/hashes-example/issues"
+  },
+  "homepage": "https://github.com/agamshah24/hashes-example#readme",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
